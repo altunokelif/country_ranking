@@ -9,15 +9,15 @@ With Data mining these data have been extracted from Scopus by the help of PySco
 
 1. Actual to expected number of articles ratio based on related country :
 
-1.1 GDP Share
+   1.1 GDP Share
 
-1.2 Population 
+   1.2 Population 
 
 2.   Actual to expected number of citation ratio based on related country :
 
-1.1 GDP Share
+   1.1 GDP Share
 
-1.2 Population
+   1.2 Population
 
 ***
 
