@@ -17,8 +17,11 @@ With Data mining these data have been extracted from Scopus by the help of PySco
 
 1.1 GDP Share
 
-1.2 Population 
+1.2 Population
 
+***
+
+Some results:
 
 Number of articles published 
 
