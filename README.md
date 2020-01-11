@@ -5,19 +5,14 @@ Comparision of Countries participation in a specific field of study in last 20 y
 In this regard, we have used Scopus data base.
 With Data mining these data have been extracted from Scopus by the help of PyScopus one of Python wrappers. 
 
-2 index  have been proposed:
+2 index  have been proposed to calculate
 
-1. Actual to expected number of articles ratio based on related country :
+Actual to expected number of articles ratio based on related country & Actual to expected number of citation ratio based on related country:
 
-   1.1 GDP Share
+  1. GDP Share
 
-   1.2 Population 
+  2. Population 
 
-2.   Actual to expected number of citation ratio based on related country :
-
-   1.1 GDP Share
-
-   1.2 Population
 
 ***
 
