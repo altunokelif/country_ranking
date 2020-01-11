@@ -62,5 +62,36 @@ Turkey's percentage of published articles in Top Venues* in the field of * 2014-
 ![Picture2](https://user-images.githubusercontent.com/44237325/72207083-25b42580-34a6-11ea-954a-aa28632507ed.png)
 
 
+***
+Top 5 countries sorted by annual ratio of actual to expected number of Citation based on GDP 1999-2018
+
+![citationpop1](https://user-images.githubusercontent.com/44237325/72207352-69f4f500-34a9-11ea-92f0-1e09da84bf62.png)
+
+Actual to expected number of citation ratio based on related country GDP Share
+
+![citationpop2](https://user-images.githubusercontent.com/44237325/72207353-69f4f500-34a9-11ea-9bd3-24f82ac727c7.png)
+
+Average Actual/Expected Number of citation ratio Based on GDP on world Map in the Field of Theoretical Computer
+Science in Top Venues (1999-2018)
+
+![citationpop3](https://user-images.githubusercontent.com/44237325/72207354-6a8d8b80-34a9-11ea-9e58-d91eecd58232.png)
+
+Actual to expected number of citation ratio based on related country population 1999-2018
+
+![citationpop1](https://user-images.githubusercontent.com/44237325/72207422-11722780-34aa-11ea-9670-0c7e92d4b2fe.png)
+
+Actual to expected number of citation ratio based on related country population
+
+![citationgdp2](https://user-images.githubusercontent.com/44237325/72207357-6b262200-34a9-11ea-9879-3de10b991c40.png)
+
+Average Actual/Expected Number of citation ratio Based on population on world Map in the Field of Theoretical Computer Science in Top Venues (1999-2018)
+
+![citationgdp3](https://user-images.githubusercontent.com/44237325/72207358-6c574f00-34a9-11ea-8803-489f48ef0411.png)
+
+
+
+
+
+
 
 
